@@ -15,7 +15,7 @@ void collatz(int argument){
     printf("\n");
 }
 int main(int argc, char* argv[]) {
-    printf("Starting parent : %d\n", getppid());
+    printf("Starting parent : %d\n", getpid());
     int i ;
     for (i=1; i<argc; i++){
         pid_t pid = fork();
