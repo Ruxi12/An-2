@@ -62,6 +62,11 @@ int main(){
     }
     for (i=0; i<nrProcesses; i++)
         pthread_join(threads[i], NULL);
+
+    if (pthread_mutex_destroy(&mutex)){
+        perror("Error at pthread_destroy\n");
+        return errno;
+    }
     free(threads);
     return 0;
 }
