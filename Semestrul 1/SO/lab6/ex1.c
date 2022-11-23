@@ -23,6 +23,8 @@ int main(int argc, char* argv[]) {
     char* argument = argv[1];
     void* result; // pointer not associated with any data type
     // lansare fir de executie
+    // Is the location where the ID of the newly created thread should be stored, or NULL if the thread ID is not required.
+    // attributes for the thread that is being created. If attr is NULL, the thread is created with default attributes.
     if (pthread_create(&thread, NULL, thread_routine, argument)){
         perror("Error at pthread_create \n");
         return errno;
