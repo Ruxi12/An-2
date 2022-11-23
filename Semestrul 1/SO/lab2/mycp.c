@@ -8,8 +8,9 @@ int main(int argc, char* argv[]) {
     size_t read_size;
     // open the file specified in the pathname
     // acces mode = O_RDONLY - opened for reading
-    int fd1 = open(argv[1], O_RDONLY);
+    int fd1 = open(argv[1], O_RDONLY); // return file descriptor
     // check if opened correctly, with no error
+   
     if (fd1 < 0){
         perror("Could not open first file\n");
         return errno;
