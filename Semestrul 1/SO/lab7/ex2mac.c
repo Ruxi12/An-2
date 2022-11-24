@@ -32,6 +32,7 @@ void* thread_routine (void* arg){
     printf ("%d reached the barrier\n", *threadID);
     barrier();
     printf("%d passed the barrier\n", *threadID);
+    free(threadID);
     return NULL;
 }
 int main(){
