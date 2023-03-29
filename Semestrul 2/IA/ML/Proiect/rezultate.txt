@@ -1,0 +1,98 @@
+Epoch [1/100], Training Loss: 314.1331, Validation Loss: 36.0002
+Accuracy of the model on validation: 73.4; F1 score on validation: 0.41409691629955947 %
+Epoch [2/100], Training Loss: 129.7332, Validation Loss: 33.6503
+Accuracy of the model on validation: 74.95; F1 score on validation: 0.44271412680756395 %
+Epoch [3/100], Training Loss: 121.6449, Validation Loss: 34.9095
+Accuracy of the model on validation: 55.05; F1 score on validation: 0.3546302943287868 %
+Epoch [4/100], Training Loss: 119.3770, Validation Loss: 32.1143
+Accuracy of the model on validation: 77.15; F1 score on validation: 0.47045191193511 %
+Epoch [5/100], Training Loss: 115.6834, Validation Loss: 31.5794
+Accuracy of the model on validation: 74.8; F1 score on validation: 0.45806451612903226 %
+Epoch [6/100], Training Loss: 113.2958, Validation Loss: 37.3227
+Accuracy of the model on validation: 79.3; F1 score on validation: 0.49512195121951225 %
+Epoch [7/100], Training Loss: 113.0998, Validation Loss: 41.0152
+Accuracy of the model on validation: 82.45; F1 score on validation: 0.4608294930875576 %
+Epoch [8/100], Training Loss: 112.5816, Validation Loss: 31.4274
+Accuracy of the model on validation: 73.6; F1 score on validation: 0.4488517745302714 %
+Epoch [9/100], Training Loss: 107.7926, Validation Loss: 33.7724
+Accuracy of the model on validation: 77.65; F1 score on validation: 0.47225501770956324 %
+Epoch [10/100], Training Loss: 107.1261, Validation Loss: 34.4563
+Accuracy of the model on validation: 80.45; F1 score on validation: 0.48348745046235136 %
+Epoch [11/100], Training Loss: 103.8586, Validation Loss: 31.6465
+Epoch 00011: reducing learning rate of group 0 to 5.0000e-05.
+Accuracy of the model on validation: 76.2; F1 score on validation: 0.4711111111111111 %
+Epoch [12/100], Training Loss: 93.9426, Validation Loss: 32.5282
+Accuracy of the model on validation: 75.4; F1 score on validation: 0.4640522875816993 %
+Epoch [13/100], Training Loss: 88.0644, Validation Loss: 33.9973
+Accuracy of the model on validation: 77.9; F1 score on validation: 0.4824355971896955 %
+Epoch [14/100], Training Loss: 84.8409, Validation Loss: 35.4861
+Accuracy of the model on validation: 75.9; F1 score on validation: 0.46444444444444444 %
+Epoch [15/100], Training Loss: 81.4024, Validation Loss: 36.4341
+Accuracy of the model on validation: 74.75; F1 score on validation: 0.45640473627556516 %
+Epoch [16/100], Training Loss: 78.2277, Validation Loss: 37.0341
+Accuracy of the model on validation: 74.85; F1 score on validation: 0.45621621621621616 %
+Epoch [17/100], Training Loss: 74.6699, Validation Loss: 40.0205
+Epoch 00017: reducing learning rate of group 0 to 1.0000e-05.
+Accuracy of the model on validation: 78.2; F1 score on validation: 0.4746987951807229 %
+Epoch [18/100], Training Loss: 70.4230, Validation Loss: 40.4644
+Accuracy of the model on validation: 77.7; F1 score on validation: 0.46522781774580335 %
+Epoch [19/100], Training Loss: 69.3415, Validation Loss: 40.8866
+Accuracy of the model on validation: 77.7; F1 score on validation: 0.46650717703349276 %
+Epoch [20/100], Training Loss: 68.0989, Validation Loss: 40.5099
+Accuracy of the model on validation: 77.85; F1 score on validation: 0.46690734055354993 %
+Epoch [21/100], Training Loss: 67.4724, Validation Loss: 42.3025
+Accuracy of the model on validation: 77.9; F1 score on validation: 0.47002398081534774 %
+Epoch [22/100], Training Loss: 66.7620, Validation Loss: 43.8743
+Accuracy of the model on validation: 78.8; F1 score on validation: 0.46329113924050636 %
+Epoch [23/100], Training Loss: 66.1223, Validation Loss: 43.2597
+Accuracy of the model on validation: 77.85; F1 score on validation: 0.45909645909645913 %
+Epoch [24/100], Training Loss: 64.9954, Validation Loss: 44.7441
+Accuracy of the model on validation: 77.85; F1 score on validation: 0.4551045510455105 %
+Epoch [25/100], Training Loss: 64.1911, Validation Loss: 45.9002
+Accuracy of the model on validation: 78.15; F1 score on validation: 0.450314465408805 %
+Epoch [26/100], Training Loss: 63.2979, Validation Loss: 45.2711
+Accuracy of the model on validation: 77.85; F1 score on validation: 0.4551045510455105 %
+Epoch [27/100], Training Loss: 62.6135, Validation Loss: 46.9538
+Accuracy of the model on validation: 78.25; F1 score on validation: 0.4528301886792453 %
+Epoch [28/100], Training Loss: 61.3439, Validation Loss: 47.2625
+Early stopping, no improvement in last 20 epochs
+
+
+
+
+-----
+
+
+Epoch [1/100], Training Loss: 875020550540249.7500, Validation Loss: 145.3538
+Test Accuracy of the model on validation: 86.2 %
+Epoch [2/100], Training Loss: 359.1067, Validation Loss: 71.5176
+Test Accuracy of the model on validation: 13.8 %
+Epoch [3/100], Training Loss: 188.0467, Validation Loss: 45.2622
+Test Accuracy of the model on validation: 86.2 %
+Epoch [4/100], Training Loss: 143.0298, Validation Loss: 34.7337
+Test Accuracy of the model on validation: 86.2 %
+Epoch [5/100], Training Loss: 116.9705, Validation Loss: 25.3769
+Test Accuracy of the model on validation: 86.2 %
+Epoch [6/100], Training Loss: 114.7430, Validation Loss: 27.7218
+Test Accuracy of the model on validation: 86.2 %
+Epoch [7/100], Training Loss: 118.1293, Validation Loss: 25.2139
+Test Accuracy of the model on validation: 86.2 %
+Epoch [8/100], Training Loss: 106.8732, Validation Loss: 26.1161
+Test Accuracy of the model on validation: 86.2 %
+Epoch [9/100], Training Loss: 103.9892, Validation Loss: 25.9838
+Test Accuracy of the model on validation: 86.2 %
+Epoch [10/100], Training Loss: 102.5288, Validation Loss: 26.2744
+Test Accuracy of the model on validation: 86.2 %
+Epoch [11/100], Training Loss: 103.0510, Validation Loss: 25.6417
+Epoch 00011: reducing learning rate of group 0 to 1.0000e-02.
+Test Accuracy of the model on validation: 86.2 %
+Epoch [12/100], Training Loss: 99.3137, Validation Loss: 25.3239
+Test Accuracy of the model on validation: 86.2 %
+Epoch [13/100], Training Loss: 99.4328, Validation Loss: 25.3292
+Test Accuracy of the model on validation: 86.2 %
+Epoch [14/100], Training Loss: 99.1415, Validation Loss: 25.5303
+Test Accuracy of the model on validation: 86.2 %
+Epoch [15/100], Training Loss: 99.6297, Validation Loss: 25.3702
+Test Accuracy of the model on validation: 86.2 %
+Epoch [16/100], Training Loss: 99.4189, Validation Loss: 25.5468
+Test Accuracy of the model on validation: 86.2 %
