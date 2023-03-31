@@ -1,3 +1,72 @@
+-- 0.547 
+
+
+Epoch [1/100], Training Loss: 98.2156, Validation Loss: 7.2774
+Accuracy of the model on validation: 86.2; F1 score on validation:  %
+Epoch [2/100], Training Loss: 27.5073, Validation Loss: 7.3253
+Accuracy of the model on validation: 86.2; F1 score on validation:  %
+Epoch [3/100], Training Loss: 26.9515, Validation Loss: 6.6356
+Accuracy of the model on validation: 86.2; F1 score on validation:  %
+Epoch [4/100], Training Loss: 26.6380, Validation Loss: 6.8960
+Accuracy of the model on validation: 86.2; F1 score on validation:  %
+Epoch [5/100], Training Loss: 25.8688, Validation Loss: 6.9570
+Accuracy of the model on validation: 86.2; F1 score on validation:  %
+Epoch [6/100], Training Loss: 24.8982, Validation Loss: 6.8138
+Accuracy of the model on validation: 86.2; F1 score on validation:  %
+Epoch [7/100], Training Loss: 24.0903, Validation Loss: 6.2537
+Accuracy of the model on validation: 86.2; F1 score on validation:  %
+Epoch [8/100], Training Loss: 22.8598, Validation Loss: 6.5145
+Accuracy of the model on validation: 86.2; F1 score on validation:  %
+Epoch [9/100], Training Loss: 22.5781, Validation Loss: 6.2397
+Accuracy of the model on validation: 87.05; F1 score on validation:  %
+Epoch [10/100], Training Loss: 21.5155, Validation Loss: 6.6962
+Accuracy of the model on validation: 87.15; F1 score on validation:  %
+Epoch [11/100], Training Loss: 20.8287, Validation Loss: 6.5547
+Accuracy of the model on validation: 88.0; F1 score on validation:  %
+Epoch [12/100], Training Loss: 20.0322, Validation Loss: 6.8107
+Accuracy of the model on validation: 87.75; F1 score on validation:  %
+Epoch [13/100], Training Loss: 19.0688, Validation Loss: 6.3888
+Epoch 00013: reducing learning rate of group 0 to 5.0000e-05.
+Accuracy of the model on validation: 86.85; F1 score on validation:  %
+Epoch [14/100], Training Loss: 15.0333, Validation Loss: 7.3083
+Accuracy of the model on validation: 88.7; F1 score on validation:  %
+Epoch [15/100], Training Loss: 11.8329, Validation Loss: 7.7994
+Accuracy of the model on validation: 88.8; F1 score on validation:  %
+Epoch [16/100], Training Loss: 9.8754, Validation Loss: 9.8078
+Accuracy of the model on validation: 89.0; F1 score on validation:  %
+Epoch [17/100], Training Loss: 8.3477, Validation Loss: 10.0569
+Accuracy of the model on validation: 89.05; F1 score on validation:  %
+Epoch [18/100], Training Loss: 7.0481, Validation Loss: 11.6032
+Accuracy of the model on validation: 89.0; F1 score on validation:  %
+Epoch [19/100], Training Loss: 5.8689, Validation Loss: 14.1367
+Epoch 00019: reducing learning rate of group 0 to 1.0000e-05.
+Accuracy of the model on validation: 88.55; F1 score on validation:  %
+Epoch [20/100], Training Loss: 4.6324, Validation Loss: 14.1382
+Accuracy of the model on validation: 88.6; F1 score on validation:  %
+Epoch [21/100], Training Loss: 4.3467, Validation Loss: 14.7738
+Accuracy of the model on validation: 88.6; F1 score on validation:  %
+Epoch [22/100], Training Loss: 4.1641, Validation Loss: 15.0425
+Accuracy of the model on validation: 88.65; F1 score on validation:  %
+Epoch [23/100], Training Loss: 3.9304, Validation Loss: 15.4176
+Accuracy of the model on validation: 88.65; F1 score on validation:  %
+Epoch [24/100], Training Loss: 3.7170, Validation Loss: 16.6125
+Accuracy of the model on validation: 88.25; F1 score on validation:  %
+Epoch [25/100], Training Loss: 3.5128, Validation Loss: 16.5944
+Accuracy of the model on validation: 88.45; F1 score on validation:  %
+Epoch [26/100], Training Loss: 3.2950, Validation Loss: 17.0493
+Accuracy of the model on validation: 88.25; F1 score on validation:  %
+Epoch [27/100], Training Loss: 3.1247, Validation Loss: 16.6841
+Accuracy of the model on validation: 88.35; F1 score on validation:  %
+Epoch [28/100], Training Loss: 2.9093, Validation Loss: 18.5413
+Accuracy of the model on validation: 88.2; F1 score on validation:  %
+Epoch [29/100], Training Loss: 2.7265, Validation Loss: 17.9311
+Early stopping, no improvement in last 20 epochs
+
+
+
+
+
+
 -- 0.462  acuratete 30 earl_count lr = 0.001.   min_lr = 0.00001
 
 
