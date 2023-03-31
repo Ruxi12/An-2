@@ -1,4 +1,4 @@
--- 0.547 
+e-- 0.547 15000 count0:12762 count1:2238
 
 
 Epoch [1/100], Training Loss: 98.2156, Validation Loss: 7.2774
