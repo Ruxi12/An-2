@@ -1,3 +1,79 @@
+- 0.666666 
+Epoch [1/100], Training Loss: 33.7699, Validation Loss: 7.0576
+Accuracy of the model on validation: 86.2%
+Epoch [2/100], Training Loss: 27.7302, Validation Loss: 6.6521
+Accuracy of the model on validation: 86.2%
+Epoch [3/100], Training Loss: 26.8527, Validation Loss: 6.6881
+Accuracy of the model on validation: 86.2%
+Epoch [4/100], Training Loss: 26.4808, Validation Loss: 6.3136
+Accuracy of the model on validation: 86.2%
+Epoch [5/100], Training Loss: 25.1432, Validation Loss: 6.1485
+Accuracy of the model on validation: 86.2%
+Epoch [6/100], Training Loss: 23.8243, Validation Loss: 6.6168
+Accuracy of the model on validation: 86.2%
+Epoch [7/100], Training Loss: 22.8920, Validation Loss: 6.1050
+Accuracy of the model on validation: 87.7 %; F1 score on validation: 20.64516129032258 %
+Epoch [8/100], Training Loss: 22.3061, Validation Loss: 5.7757
+Accuracy of the model on validation: 89.5 %; F1 score on validation: 41.01123595505618 %
+Epoch [9/100], Training Loss: 20.5891, Validation Loss: 5.5294
+Accuracy of the model on validation: 89.25 %; F1 score on validation: 38.040345821325644 %
+Epoch [10/100], Training Loss: 20.1867, Validation Loss: 5.4682
+Accuracy of the model on validation: 90.1 %; F1 score on validation: 47.340425531914896 %
+Epoch [11/100], Training Loss: 18.9456, Validation Loss: 5.3770
+Accuracy of the model on validation: 90.25 %; F1 score on validation: 48.275862068965516 %
+Epoch [12/100], Training Loss: 18.3910, Validation Loss: 5.4907
+Accuracy of the model on validation: 88.85 %; F1 score on validation: 34.21828908554573 %
+Epoch [13/100], Training Loss: 17.2354, Validation Loss: 5.3299
+Accuracy of the model on validation: 90.5 %; F1 score on validation: 50.261780104712045 %
+Epoch [14/100], Training Loss: 16.6020, Validation Loss: 5.3213
+Accuracy of the model on validation: 90.3 %; F1 score on validation: 48.94736842105264 %
+Epoch [15/100], Training Loss: 15.8993, Validation Loss: 5.4456
+Accuracy of the model on validation: 90.55 %; F1 score on validation: 51.66240409207161 %
+Epoch [16/100], Training Loss: 15.3588, Validation Loss: 5.9855
+Accuracy of the model on validation: 91.1 %; F1 score on validation: 57.81990521327014 %
+Epoch [17/100], Training Loss: 14.7735, Validation Loss: 6.5790
+Accuracy of the model on validation: 91.05 %; F1 score on validation: 59.2255125284738 %
+Epoch [18/100], Training Loss: 13.2834, Validation Loss: 6.0418
+Accuracy of the model on validation: 90.15 %; F1 score on validation: 49.872773536895686 %
+Epoch [19/100], Training Loss: 12.9871, Validation Loss: 6.4426
+Accuracy of the model on validation: 90.5 %; F1 score on validation: 53.20197044334976 %
+Epoch [20/100], Training Loss: 13.2037, Validation Loss: 6.2664
+Epoch 00020: reducing learning rate of group 0 to 5.0000e-05.
+Accuracy of the model on validation: 90.9 %; F1 score on validation: 56.03864734299517 %
+Epoch [21/100], Training Loss: 8.3718, Validation Loss: 7.9417
+Accuracy of the model on validation: 91.0 %; F1 score on validation: 59.64125560538116 %
+Epoch [22/100], Training Loss: 7.0631, Validation Loss: 8.5774
+Accuracy of the model on validation: 91.05 %; F1 score on validation: 60.1336302895323 %
+Epoch [23/100], Training Loss: 6.2373, Validation Loss: 9.9296
+Accuracy of the model on validation: 90.65 %; F1 score on validation: 60.12793176972282 %
+Epoch [24/100], Training Loss: 5.6003, Validation Loss: 9.8960
+Accuracy of the model on validation: 90.7 %; F1 score on validation: 59.21052631578948 %
+Epoch [25/100], Training Loss: 5.0265, Validation Loss: 10.8086
+Accuracy of the model on validation: 90.95 %; F1 score on validation: 62.05450733752622 %
+Epoch [26/100], Training Loss: 4.4443, Validation Loss: 11.0460
+Epoch 00026: reducing learning rate of group 0 to 1.0000e-05.
+Accuracy of the model on validation: 90.85 %; F1 score on validation: 61.473684210526315 %
+Epoch [27/100], Training Loss: 3.8497, Validation Loss: 11.6144
+Accuracy of the model on validation: 90.55 %; F1 score on validation: 60.86956521739131 %
+Epoch [28/100], Training Loss: 3.7305, Validation Loss: 11.8738
+Accuracy of the model on validation: 90.45 %; F1 score on validation: 60.618556701030926 %
+Epoch [29/100], Training Loss: 3.6377, Validation Loss: 11.8362
+Accuracy of the model on validation: 90.5 %; F1 score on validation: 60.58091286307054 %
+Epoch [30/100], Training Loss: 3.5111, Validation Loss: 11.8253
+Accuracy of the model on validation: 90.6 %; F1 score on validation: 60.83333333333333 %
+Epoch [31/100], Training Loss: 3.4414, Validation Loss: 12.8483
+Accuracy of the model on validation: 90.2 %; F1 score on validation: 60.32388663967611 %
+Epoch [32/100], Training Loss: 3.3328, Validation Loss: 12.5249
+Accuracy of the model on validation: 90.3 %; F1 score on validation: 60.24590163934427 %
+Epoch [33/100], Training Loss: 3.2353, Validation Loss: 13.6887
+Accuracy of the model on validation: 90.0 %; F1 score on validation: 59.839357429718866 %
+Epoch [34/100], Training Loss: 3.1325, Validation Loss: 12.9137
+Early stopping, no improvement in last 20 epochs
+
+
+
+
+
 -- normalizare train_data = torch.nn.functional.normalize(train_data, p = 2, dim = 1 )
 
 /Users/ruxi.gontescu/opt/anaconda3/envs/brain_annomaly_detection/bin/python /Users/ruxi.gontescu/PycharmProjects/AI/brain_annomaly_detection/main.py
