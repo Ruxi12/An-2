@@ -1,3 +1,76 @@
+-- normalizare train_data = torch.nn.functional.normalize(train_data, p = 2, dim = 1 )
+
+/Users/ruxi.gontescu/opt/anaconda3/envs/brain_annomaly_detection/bin/python /Users/ruxi.gontescu/PycharmProjects/AI/brain_annomaly_detection/main.py
+tensor([0.8508, 0.1492], device='mps:0')
+Epoch [1/100], Training Loss: 33.2273, Validation Loss: 8.0197
+Accuracy of the model on validation: 86.2%
+Epoch [2/100], Training Loss: 32.4951, Validation Loss: 8.1166
+Accuracy of the model on validation: 86.2%
+Epoch [3/100], Training Loss: 32.4283, Validation Loss: 8.0752
+Accuracy of the model on validation: 86.2%
+Epoch [4/100], Training Loss: 32.0672, Validation Loss: 8.1010
+Accuracy of the model on validation: 86.2%
+Epoch [5/100], Training Loss: 32.3804, Validation Loss: 8.1899
+Accuracy of the model on validation: 86.2%
+Epoch [6/100], Training Loss: 32.2100, Validation Loss: 8.3631
+Accuracy of the model on validation: 86.2%
+Epoch [7/100], Training Loss: 32.1635, Validation Loss: 8.1811
+Epoch 00007: reducing learning rate of group 0 to 5.0000e-05.
+Accuracy of the model on validation: 86.2%
+Epoch [8/100], Training Loss: 31.9057, Validation Loss: 8.0724
+Accuracy of the model on validation: 86.2%
+Epoch [9/100], Training Loss: 31.8948, Validation Loss: 8.1131
+Accuracy of the model on validation: 86.2%
+Epoch [10/100], Training Loss: 31.9616, Validation Loss: 8.0353
+Accuracy of the model on validation: 86.2%
+Epoch [11/100], Training Loss: 31.8415, Validation Loss: 8.0382
+Accuracy of the model on validation: 86.2%
+Epoch [12/100], Training Loss: 31.9379, Validation Loss: 7.9839
+Accuracy of the model on validation: 86.2%
+Epoch [13/100], Training Loss: 31.8515, Validation Loss: 8.1607
+Epoch 00013: reducing learning rate of group 0 to 1.0000e-05.
+Accuracy of the model on validation: 86.2%
+Epoch [14/100], Training Loss: 31.8723, Validation Loss: 8.0577
+Accuracy of the model on validation: 86.2%
+Epoch [15/100], Training Loss: 31.9470, Validation Loss: 8.1547
+Accuracy of the model on validation: 86.2%
+Epoch [16/100], Training Loss: 31.8743, Validation Loss: 8.0561
+Accuracy of the model on validation: 86.2%
+Epoch [17/100], Training Loss: 31.9029, Validation Loss: 8.0423
+Accuracy of the model on validation: 86.2%
+Epoch [18/100], Training Loss: 31.8466, Validation Loss: 8.0116
+Accuracy of the model on validation: 86.2%
+Epoch [19/100], Training Loss: 31.8693, Validation Loss: 8.0654
+Accuracy of the model on validation: 86.2%
+Epoch [20/100], Training Loss: 31.8841, Validation Loss: 8.0399
+Accuracy of the model on validation: 86.2%
+Epoch [21/100], Training Loss: 31.9557, Validation Loss: 8.0696
+Accuracy of the model on validation: 86.2%
+Epoch [22/100], Training Loss: 31.9307, Validation Loss: 8.0203
+Accuracy of the model on validation: 86.2%
+Epoch [23/100], Training Loss: 31.9619, Validation Loss: 8.1348
+Accuracy of the model on validation: 86.2%
+Epoch [24/100], Training Loss: 31.9906, Validation Loss: 8.0539
+Accuracy of the model on validation: 86.2%
+Epoch [25/100], Training Loss: 31.9118, Validation Loss: 8.0553
+Accuracy of the model on validation: 86.2%
+Epoch [26/100], Training Loss: 31.9429, Validation Loss: 8.0607
+Accuracy of the model on validation: 86.2%
+Epoch [27/100], Training Loss: 31.8753, Validation Loss: 7.9967
+Accuracy of the model on validation: 86.2%
+Epoch [28/100], Training Loss: 31.8578, Validation Loss: 8.1374
+Accuracy of the model on validation: 86.2%
+Epoch [29/100], Training Loss: 31.9269, Validation Loss: 8.0633
+Accuracy of the model on validation: 86.2%
+Epoch [30/100], Training Loss: 31.8181, Validation Loss: 8.1099
+Accuracy of the model on validation: 86.2%
+Epoch [31/100], Training Loss: 31.9651, Validation Loss: 8.1123
+Accuracy of the model on validation: 86.2%
+Epoch [32/100], Training Loss: 31.9265, Validation Loss: 8.0384
+Early stopping, no improvement in last 20 epochs
+
+
+
 -- SMOTE weight_decay=1e-4. overfit nasol rau
 
 Epoch [1/100], Training Loss: 378.5732, Validation Loss: 24.6125
