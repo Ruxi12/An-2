@@ -1,3 +1,79 @@
+-- am adaugat dropout de 0.2 exact unde trebuie
+
+Epoch [1/100], Training Loss: 37.7244, Validation Loss: 7.7395
+Accuracy of the model on validation: 86.2%
+Epoch [2/100], Training Loss: 27.7153, Validation Loss: 6.8729
+Accuracy of the model on validation: 86.2%
+Epoch [3/100], Training Loss: 26.8717, Validation Loss: 6.5244
+Accuracy of the model on validation: 86.2%
+Epoch [4/100], Training Loss: 26.0060, Validation Loss: 7.2630
+Accuracy of the model on validation: 86.2%
+Epoch [5/100], Training Loss: 25.9145, Validation Loss: 6.4143
+Accuracy of the model on validation: 86.2%
+Epoch [6/100], Training Loss: 25.9903, Validation Loss: 6.8168
+Accuracy of the model on validation: 86.2%
+Epoch [7/100], Training Loss: 25.2547, Validation Loss: 6.3840
+Accuracy of the model on validation: 86.2%
+Epoch [8/100], Training Loss: 24.7423, Validation Loss: 6.1249
+Accuracy of the model on validation: 86.2%
+Epoch [9/100], Training Loss: 23.3533, Validation Loss: 5.8741
+Accuracy of the model on validation: 86.3 %; F1 score on validation: 1.4388489208633093 %
+Epoch [10/100], Training Loss: 22.1897, Validation Loss: 6.7240
+Accuracy of the model on validation: 86.6 %; F1 score on validation: 5.633802816901409 %
+Epoch [11/100], Training Loss: 21.6714, Validation Loss: 5.9111
+Accuracy of the model on validation: 87.15 %; F1 score on validation: 14.617940199335546 %
+Epoch [12/100], Training Loss: 21.3985, Validation Loss: 5.6889
+Accuracy of the model on validation: 89.55 %; F1 score on validation: 40.114613180515754 %
+Epoch [13/100], Training Loss: 20.0548, Validation Loss: 5.6730
+Accuracy of the model on validation: 88.65 %; F1 score on validation: 32.64094955489613 %
+Epoch [14/100], Training Loss: 19.4916, Validation Loss: 6.0088
+Accuracy of the model on validation: 90.05 %; F1 score on validation: 48.57881136950905 %
+Epoch [15/100], Training Loss: 18.4522, Validation Loss: 5.5703
+Accuracy of the model on validation: 90.4 %; F1 score on validation: 49.738219895287955 %
+Epoch [16/100], Training Loss: 18.3044, Validation Loss: 5.6310
+Accuracy of the model on validation: 89.7 %; F1 score on validation: 43.4065934065934 %
+Epoch [17/100], Training Loss: 17.2297, Validation Loss: 6.0710
+Accuracy of the model on validation: 89.6 %; F1 score on validation: 40.229885057471265 %
+Epoch [18/100], Training Loss: 16.9622, Validation Loss: 5.7992
+Accuracy of the model on validation: 90.1 %; F1 score on validation: 48.704663212435236 %
+Epoch [19/100], Training Loss: 16.4591, Validation Loss: 6.2129
+Accuracy of the model on validation: 89.2 %; F1 score on validation: 37.2093023255814 %
+Epoch [20/100], Training Loss: 15.6076, Validation Loss: 6.2560
+Accuracy of the model on validation: 90.05 %; F1 score on validation: 49.620253164556964 %
+Epoch [21/100], Training Loss: 15.3966, Validation Loss: 6.3639
+Epoch 00021: reducing learning rate of group 0 to 5.0000e-05.
+Accuracy of the model on validation: 90.1 %; F1 score on validation: 50.5 %
+Epoch [22/100], Training Loss: 11.6961, Validation Loss: 6.6328
+Accuracy of the model on validation: 90.65 %; F1 score on validation: 56.20608899297424 %
+Epoch [23/100], Training Loss: 10.1805, Validation Loss: 6.6835
+Accuracy of the model on validation: 90.9 %; F1 score on validation: 57.07547169811321 %
+Epoch [24/100], Training Loss: 9.2817, Validation Loss: 7.3240
+Accuracy of the model on validation: 90.3 %; F1 score on validation: 55.70776255707763 %
+Epoch [25/100], Training Loss: 8.5323, Validation Loss: 7.4751
+Accuracy of the model on validation: 90.2 %; F1 score on validation: 54.83870967741937 %
+Epoch [26/100], Training Loss: 8.0360, Validation Loss: 8.1859
+Accuracy of the model on validation: 90.25 %; F1 score on validation: 56.57015590200445 %
+Epoch [27/100], Training Loss: 7.3925, Validation Loss: 8.7488
+Epoch 00027: reducing learning rate of group 0 to 1.0000e-05.
+Accuracy of the model on validation: 90.35 %; F1 score on validation: 57.76805251641137 %
+Epoch [28/100], Training Loss: 6.7607, Validation Loss: 8.7271
+Accuracy of the model on validation: 90.3 %; F1 score on validation: 57.26872246696035 %
+Epoch [29/100], Training Loss: 6.6317, Validation Loss: 9.0893
+Accuracy of the model on validation: 90.4 %; F1 score on validation: 57.89473684210526 %
+Epoch [30/100], Training Loss: 6.5458, Validation Loss: 9.2134
+Accuracy of the model on validation: 90.45 %; F1 score on validation: 59.100642398286936 %
+Epoch [31/100], Training Loss: 6.4074, Validation Loss: 9.4652
+Accuracy of the model on validation: 90.2 %; F1 score on validation: 57.758620689655174 %
+Epoch [32/100], Training Loss: 6.3018, Validation Loss: 9.2972
+Accuracy of the model on validation: 90.4 %; F1 score on validation: 58.62068965517241 %
+Epoch [33/100], Training Loss: 6.2138, Validation Loss: 9.4543
+Accuracy of the model on validation: 90.15 %; F1 score on validation: 57.26681127982646 %
+Epoch [34/100], Training Loss: 6.0673, Validation Loss: 9.8007
+Accuracy of the model on validation: 90.45 %; F1 score on validation: 59.78947368421053 %
+Epoch [35/100], Training Loss: 5.9538, Validation Loss: 9.7921
+Early stopping, no improvement in last 20 epochs
+
+
 -- 0.61666 am adaugat dropout de self.dropout = nn.Dropout(0.2) intre fct2 si fct3
 -- la forward am pus dropout pe prima linie si intre act si fct3
 
