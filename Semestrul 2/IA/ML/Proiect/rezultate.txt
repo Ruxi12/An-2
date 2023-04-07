@@ -1,3 +1,81 @@
+-- am dublat si al doilea layer - fara functie de activare intre ele 
+
+Epoch [1/100], Training Loss: 35.5809, Validation Loss: 7.8008
+Accuracy of the model on validation: 86.2%
+Epoch [2/100], Training Loss: 29.3543, Validation Loss: 6.8656
+Accuracy of the model on validation: 86.2%
+Epoch [3/100], Training Loss: 27.6444, Validation Loss: 7.2778
+Accuracy of the model on validation: 86.2%
+Epoch [4/100], Training Loss: 26.8283, Validation Loss: 6.8570
+Accuracy of the model on validation: 86.2%
+Epoch [5/100], Training Loss: 26.7107, Validation Loss: 6.9751
+Accuracy of the model on validation: 86.2%
+Epoch [6/100], Training Loss: 26.1094, Validation Loss: 7.1435
+Accuracy of the model on validation: 86.2%
+Epoch [7/100], Training Loss: 25.7978, Validation Loss: 6.7375
+Accuracy of the model on validation: 86.2%
+Epoch [8/100], Training Loss: 25.4894, Validation Loss: 7.1429
+Accuracy of the model on validation: 86.2%
+Epoch [9/100], Training Loss: 25.0683, Validation Loss: 6.3334
+Accuracy of the model on validation: 86.2%
+Epoch [10/100], Training Loss: 24.0937, Validation Loss: 6.1733
+Accuracy of the model on validation: 87.8 %; F1 score on validation: 21.794871794871796 %
+Epoch [11/100], Training Loss: 23.6025, Validation Loss: 5.9486
+Accuracy of the model on validation: 88.05 %; F1 score on validation: 25.078369905956112 %
+Epoch [12/100], Training Loss: 22.6863, Validation Loss: 5.7772
+Accuracy of the model on validation: 88.55 %; F1 score on validation: 31.23123123123123 %
+Epoch [13/100], Training Loss: 21.9441, Validation Loss: 7.0906
+Accuracy of the model on validation: 89.9 %; F1 score on validation: 51.442307692307686 %
+Epoch [14/100], Training Loss: 22.3872, Validation Loss: 5.7432
+Accuracy of the model on validation: 88.65 %; F1 score on validation: 31.83183183183183 %
+Epoch [15/100], Training Loss: 21.3747, Validation Loss: 5.8627
+Accuracy of the model on validation: 89.0 %; F1 score on validation: 36.04651162790697 %
+Epoch [16/100], Training Loss: 21.0890, Validation Loss: 6.1761
+Accuracy of the model on validation: 87.6 %; F1 score on validation: 18.954248366013072 %
+Epoch [17/100], Training Loss: 20.9559, Validation Loss: 5.7709
+Accuracy of the model on validation: 88.9 %; F1 score on validation: 33.92857142857143 %
+Epoch [18/100], Training Loss: 19.9148, Validation Loss: 6.5921
+Epoch 00018: reducing learning rate of group 0 to 5.0000e-05.
+Accuracy of the model on validation: 88.1 %; F1 score on validation: 25.625 %
+Epoch [19/100], Training Loss: 17.1572, Validation Loss: 5.7617
+Accuracy of the model on validation: 89.55 %; F1 score on validation: 44.56233421750664 %
+Epoch [20/100], Training Loss: 16.0966, Validation Loss: 5.8656
+Accuracy of the model on validation: 89.75 %; F1 score on validation: 46.4751958224543 %
+Epoch [21/100], Training Loss: 15.6255, Validation Loss: 5.8844
+Accuracy of the model on validation: 89.9 %; F1 score on validation: 48.469387755102034 %
+Epoch [22/100], Training Loss: 15.1793, Validation Loss: 6.0168
+Accuracy of the model on validation: 90.1 %; F1 score on validation: 49.48979591836734 %
+Epoch [23/100], Training Loss: 14.7707, Validation Loss: 6.0536
+Accuracy of the model on validation: 90.1 %; F1 score on validation: 49.48979591836734 %
+Epoch [24/100], Training Loss: 14.3841, Validation Loss: 6.0381
+Epoch 00024: reducing learning rate of group 0 to 1.0000e-05.
+Accuracy of the model on validation: 90.2 %; F1 score on validation: 49.48453608247423 %
+Epoch [25/100], Training Loss: 13.8767, Validation Loss: 6.3104
+Accuracy of the model on validation: 90.05 %; F1 score on validation: 51.10565110565111 %
+Epoch [26/100], Training Loss: 13.7853, Validation Loss: 6.2499
+Accuracy of the model on validation: 90.1 %; F1 score on validation: 51.470588235294116 %
+Epoch [27/100], Training Loss: 13.6571, Validation Loss: 6.4509
+Accuracy of the model on validation: 90.15 %; F1 score on validation: 51.83374083129584 %
+Epoch [28/100], Training Loss: 13.6112, Validation Loss: 6.4316
+Accuracy of the model on validation: 90.15 %; F1 score on validation: 51.83374083129584 %
+Epoch [29/100], Training Loss: 13.5218, Validation Loss: 6.4908
+Accuracy of the model on validation: 90.25 %; F1 score on validation: 53.01204819277108 %
+Epoch [30/100], Training Loss: 13.4212, Validation Loss: 6.4722
+Accuracy of the model on validation: 90.2 %; F1 score on validation: 52.42718446601941 %
+Epoch [31/100], Training Loss: 13.3301, Validation Loss: 6.5474
+Accuracy of the model on validation: 90.3 %; F1 score on validation: 53.14009661835749 %
+Epoch [32/100], Training Loss: 13.2281, Validation Loss: 6.5517
+Accuracy of the model on validation: 90.3 %; F1 score on validation: 53.365384615384606 %
+Epoch [33/100], Training Loss: 13.0976, Validation Loss: 6.8042
+Accuracy of the model on validation: 90.3 %; F1 score on validation: 53.365384615384606 %
+Epoch [34/100], Training Loss: 13.0878, Validation Loss: 6.7136
+Early stopping, no improvement in last 20 epochs
+
+
+
+
+
+
 -- 0.41. are un parcurs foarte frumos, dar are scor mic in kaggle
 
 Epoch [1/100], Training Loss: 68.8784, Validation Loss: 7.3632
