@@ -158,7 +158,7 @@ Early stopping, no improvement in last 20 epochs
 
 
 
--- 0.41. are un parcurs foarte frumos, dar are scor mic in kaggle
+-- best!!!
 
 Epoch [1/100], Training Loss: 68.8784, Validation Loss: 7.3632
 Accuracy of the model on validation: 86.15%
