@@ -12,6 +12,9 @@ y3 = int(linie[1])
 # determinantul format de varfurile triunghiului
 det = (x1 * y2) + (x2 * y3) + (x3 * y1) - (y1 * x2) - (y2 * x3) - (y3 * x1)
 # se obtin coordonatele centrului cercului circumscris
+# The first step is to calculate the determinant of the matrix formed by the coordinates of the three vertices. 
+# The determinant is calculated using the formula for the cross product of two 2D vectors in terms of their components. 
+# The value of the determinant is used later to calculate the coordinates of the circumcenter.
 x_c = (((x1 ** 2 + y1 ** 2) * (y2 - y3)) + ((x2 ** 2 + y2 ** 2) * (y3 - y1)) + ((x3 ** 2 + y3 ** 2) * (y1 - y2))) / (2 * det)
 y_c = -(((x1 ** 2 + y1 ** 2) * (x2 - x3)) + ((x2 ** 2 + y2 ** 2) * (x3 - x1)) + ((x3 ** 2 + y3 ** 2) * (x1 - x2))) / (2 * det)
 #print(x_c, y_c)
